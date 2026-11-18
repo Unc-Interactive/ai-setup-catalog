@@ -1,7 +1,9 @@
 {
- "version": "1.2.0",
+ "version": "1.3.0",
  "url": "https://github.com/Unc-Interactive/ai-setup/releases/latest",
- "notes": ["Updates panel: new models, model updates and app updates in one place",
-           "Image and video engine: set up WSL + Ubuntu and install ComfyUI from the app",
-           "Models you already have are used instead of downloaded again"]
+ "notes": [
+  "Explain my PC: a small local model explains what the PC is doing (advice only, nothing changes)",
+  "Starter model is now qwen3:4b-instruct (qwen3:4b only thinks out loud)",
+  "Two copies of the app can no longer share a port"
+ ]
 }
