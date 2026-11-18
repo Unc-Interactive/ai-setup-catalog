@@ -1,0 +1,7 @@
+{
+ "version": "1.2.0",
+ "url": "https://github.com/Unc-Interactive/ai-setup/releases/latest",
+ "notes": ["Updates panel: new models, model updates and app updates in one place",
+           "Image and video engine: set up WSL + Ubuntu and install ComfyUI from the app",
+           "Models you already have are used instead of downloaded again"]
+}
